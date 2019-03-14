@@ -1,0 +1,35 @@
+Scanning firmware...
+
+Scan Time:     2019-03-14 14:21:07
+Target File:   /home/ubuntu/Intex_Eco_Beats/intex.bin
+MD5 Checksum:  eddf8ec76bc74ffed696a771bc9755f5
+Signatures:    344
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+67652         0x10844         Unix path: /source/src/c/sci_mem.c
+71476         0x11734         Unix path: /source/src/c/threadx_os.c
+82452         0x14214         Unix path: /source/src/c/threadx_appmem.c
+100810        0x189CA         Unix path: /source/mmi_app/kernel/c/mmi_default.c
+228504        0x37C98         Unix path: /chip_module/busmonitor/v5/busmonitor_phy_v5.c
+270852        0x42204         Unix path: /Layer1/source/c/datacnfproc.c
+356336        0x56FF0         Unix path: /Layer1/source/c/systeminfo.c
+381588        0x5D294         Unix path: /source/product/driver/bt/bt_prod.c
+575289        0x8C739         Minix filesystem, V1, little endian, 4 zones
+575833        0x8C959         Minix filesystem, V1, little endian, 8192 zones
+608440        0x948B8         MySQL ISAM compressed data file Version 2
+613307        0x95BBB         MySQL MISAM index file Version 3
+631273        0x9A1E9         MySQL MISAM compressed data file Version 9
+633948        0x9AC5C         MySQL MISAM index file Version 7
+637613        0x9BAAD         MySQL MISAM index file Version 5
+654474        0x9FC8A         MySQL ISAM index file Version 10
+3943340       0x3C2BAC        JPEG image data, JFIF standard 1.01
+4131958       0x3F0C76        JPEG image data, JFIF standard 1.01
+4142358       0x3F3516        JPEG image data, JFIF standard 1.01
+4168960       0x3F9D00        JPEG image data, JFIF standard 1.01
+
+Extracting 575833 bytes of  header image at offset 0
+Extracting minix file system at offset 575833
+Extracting 2032 byte footer from offset 4192272
+Unsupported file system 'minix'! Quitting...
+
